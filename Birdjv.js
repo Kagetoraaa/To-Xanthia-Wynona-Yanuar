@@ -3,6 +3,6 @@
 bird.addEventListener('click', () => {
   bird.classList.add('fly');
   setTimeout(() => {
-  window.location.replace("index.html")
+  window.location.replace("ngesurat.html")
   }, 2000);
 });
